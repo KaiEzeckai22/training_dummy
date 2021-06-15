@@ -1,0 +1,28 @@
+Activities
+</> CMD Recap
+</> git add test
+</> git commit test
+</> git commit retest after failure
+</> Dummy Test
+</> Turn off PRev
+To Do
+<> set up dummy repository
+<> push to remote
+<> overwrite local
+<> download remote
+
+Git process exclusivity: Only one process must be running, failed processes included.
+
+
+git status
+git add <dir/file.ext>
+git commit -m "<message>"
+
+git config --global user.name "KaiEzeckai22"
+git config --global user.email "kyle.z.xxii@gmail.com"
+
+git config --global user.name "dummyacc"
+git config --global user.email "dummyacc@dummy.com"
+
+rm -f .git/index.lock
+or just delete index.lock in .git folder of the same dir

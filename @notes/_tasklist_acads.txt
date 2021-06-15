@@ -1,0 +1,18 @@
+1. Github
+</> add
+</> commit
+<> push
+<> rollback
+<> pull
+<> fork
+<> checkout
+<> fetch
+<> clone
+<> merge
+2. API (Node)
+3. Cross platform mobile app
+4. NO SQL
+5. Integration with Heroku
+6. Integration of Mobile App with API
+
+
